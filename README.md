@@ -1,16 +1,21 @@
-## Hi there 👋
+# Việt Dũng
 
-<!--
-**dungx48/dungx48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer | Software Engineer | Banking Digital Transformation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Năng lực chính
+
+- **Ngôn ngữ & Frameworks:** Python, Java (Spring Boot)  
+- **AI/ML:** OCR, Computer Vision, Chatbot, ...
+- **Hệ thống:** Kafka, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)  
+- **Phân tích & trực quan:** Power BI.
+
+
+
+---
+
+## Liên hệ
+
+- **Email:** pvdung0408@gmail.com
+- **Phone:** 0865262663
